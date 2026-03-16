@@ -70,5 +70,7 @@ int main(){
         solve();
     }
 
+    cout << "Execution Completed" << endl;
+
     return 0;
 }
